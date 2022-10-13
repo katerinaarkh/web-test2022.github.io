@@ -1,0 +1,67 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.nachalo{
+	text-align: left;
+	padding: 200px 10px;
+	background-image: url(../img/d.jpg);
+	background-position: center;
+	background-size: cover;
+
+}
+.kek{
+	float: right;
+	padding: 0 20px 20px 0;
+	box-shadow: 0 0 10px 0px rgba(0,0,0,0.3);
+}
+h2{
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	padding: 7px;
+     border: 2px dotted;
+        border-radius: 8px;
+       border-color:#588b54;
+
+}
+
+.charakter{
+	font-family: 'Lora', serif;
+	font-size: 20px;
+	 width: 85%;
+     margin: auto;
+     padding: 10px;
+
+}
+.vneshnost{
+	font-family: 'Lora', serif;
+	font-size: 20px;
+	 width: 85%;
+        margin: auto;
+       padding: 10px;
+ 
+}
+.nachalo{
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+
+}
+ul{
+	padding: 10px;
+	color: #588b54;
+}
+h1{
+	font-family: 'Russo One', sans-serif;
+	font-size: 50px;
+}
+h3{
+	font-size: 17px;
+}
+p{
+	margin: 10px 0;
+}
+body{
+	background-color: #f1f1e8;
+}
